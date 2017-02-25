@@ -17,7 +17,7 @@ count_col(word,char[,feature1,feature2,feature3])
  
 count_edges(word[,feaure])
   * input: word (pandas data frames)
-  * a funciton counting the number of edges in a script, adding a new column called "#edges" to the data frame word, and saving the result to that column.
+  * a funciton counting how many edges in a script, adding a new column called "#edges" to the data frame word, and saving the result to that column.
   * count_edges has been added to count.py file.
   * see count_edge_frog.ipynb for examples.
 
